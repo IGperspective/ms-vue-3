@@ -6,9 +6,11 @@
 
 <script>
 export default {
-  props: {
-    triger: Number,
-  },
+  //not used; used as on off swith -1 or 1
+  // props: {
+  //   triger: Number,
+  // },
+
   data() {
     return {
       time: 0,
